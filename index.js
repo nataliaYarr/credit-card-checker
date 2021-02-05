@@ -21,7 +21,7 @@ const mystery4 = [40, 9, 2, 9, 8, 7, 7, 1, 6, 9, 2, 1, 7, 0, 9, 3];
 const mystery5 = [11, 9, 1, 3, 5, 4, 0, 4, 6, 3, 0, 7, 2, 5, 2, 2];
 
 // An array of all the arrays above
-const batch = [valid1, valid2, valid3, valid4, valid5, invalid1, invalid2, invalid3, invalid4, invalid5,invalid6, mystery1, mystery2 ];
+const batch = [valid1, valid2, valid3, valid4, valid5, invalid1, invalid2, invalid3, invalid4, invalid5,invalid6, mystery1, mystery2, mystery3 ];
 
 // Add your functions below:
 const validateCred  = (arr) => { 
